@@ -1,4 +1,4 @@
-create or replace table atobin_dba.core.vendors
+create or replace table atobin_db.core.vendors
 (
 vendor_id int unique
 ,vendor_name varchar(50)
