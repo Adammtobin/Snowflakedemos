@@ -1,4 +1,4 @@
-create or replace table atobin_dba.core.items
+create or replace table atobin_db.core.items
 (
 item_id int unique
 ,item_name varchar(50)
