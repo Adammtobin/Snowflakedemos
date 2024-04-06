@@ -1,2 +1,2 @@
-/gitintegration/vendors_table.sql;
-/gitintegration/market_table.sql;
+/gitint/vendors_table.sql;
+/gitint/market_table.sql;
